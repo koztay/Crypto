@@ -1,5 +1,5 @@
 # Crypto
 ## Crypto News Sources
 - https://dailyhodl.com
-- https://cryptomarketcal.com
+- https://coinmarketcal.com
 
