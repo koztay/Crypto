@@ -9,6 +9,7 @@
 - https://www.coingecko.com/
 - https://coin360.com/
 - https://www.bitcoinmarketcycle.com/
+- https://messari.io/
 
 ## Uncategorized
 - https://dappradar.com/
