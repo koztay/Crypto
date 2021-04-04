@@ -17,8 +17,8 @@
 ## ICO
 - https://icodrops.com/
 
-# Technical Analysis Training in Turkish
-## This list is from the following twitter thread :
+## Technical Analysis Training in Turkish
+### This list is from the following twitter thread :
 - https://twitter.com/kozalak43/status/1377642722316664835?s=21
 
 ### 1
@@ -88,15 +88,84 @@ wyckoff serisini ve diğer videoları  mutlaka izleyin
 - telegram: https://t.me/kriptoda
 - youtube: https://youtube.com/c/Kriptoda/videos
 
+### 10
+@Anil_Ozeksi
+- https://youtube.com/c/An%C4%B1l%C3%96zek%C5%9Fi/videos
+- http://teknikanalizsanati.com/teknikanalizsitemap.aspx
 
+### 11
+@borsaninizinden
 
+- Mumlara Giriş Ders 1: https://bit.ly/3oaBvzg
+- Mumlara Giriş Ders 2: https://bit.ly/368l6oG
+- DOJİLER: https://bit.ly/39aD8ZG
+- Engulfingler: https://bit.ly/39b5GSF
+- Haramiler: https://bit.ly/39TVpcN
+- Hammer ve Varyasyonları: https://bit.ly/3oaBtr8
 
+### 12
+@RespectTrade
+- Telegram: https://t.me/RespectTrade
+- https://youtube.com/playlist?list=PLuwZPavwHhEh4U_4CUOsyoMWsYAyLObwm
 
+### 13
+@Crypto_Draco 
+Teknik Analiz Eğitim Serisi
+- https://t.co/Tf22LV3we4?amp=1
 
+### 14
+@adatavsan
+https://t.co/46i4gTc4uN?amp=1
 
+### 15
+@FElazoglu
+https://drive.google.com/file/d/17tmsUItuGYFHStM8EZpJET02R12cqeSo/view?usp=sharing
 
+### 16
+@yerdinc65
+makaledeki kitabı ücretsiz indirebilirsiniz. 
+birkaç sene önce kaybettiğimiz için dualarınızda olsun
 
+https://twitter.com/yerdinc65/status/971284236941627393?s=20
+https://bilgeyatirimci.com/i/kuresel-gorunum-dow-teorisi-borsalar-ve-kaotik-surecler/
 
+### 17
+@EfloudTheSurfer
+ ve price action
+
+tweetteki tavsiye kaynaklara bakılabilirDown pointing backhand index
+- https://twitter.com/EfloudTheSurfer/status/1364659625866518529?s=20
+- https://efloud.medium.com/1-000-dolardan-1-000-000-dolara-aa1fd4df0295
+- https://medium.com/@efezeli/risk-management-risk-y%C3%B6netimi-f2ae805f8e25
+- https://cryptonn.com/price-action-risk-yonetimi-ve-birbirleriyle-iliskisi/
+- https://youtube.com/watch?v=IL0csxht6Fg
+
+### 18
+@PriceActionTR1
+Teknik analiz, borsa, borsa eğitimi gibi konularda videolar. Price action, risk yönetimi, trading , yatırımcı psikolojisi. bitcoin, ethereum, rippe ve diğer kripto paralar. Forex, dolar, altın,...
+- https://t.co/o6yxCjddPe?amp=1
+
+### 19
+@fxfortrader
+ tweeterda çok aktif değil. 
+- https://youtube.com/watch?v=2x-bJTwywPI&list=PLLA8rPe8pQfnF9v5qY1ijIjv_iWH_OMal
+
+### 20
+@PriceAction_TR
+  price actiona farklı bakış açısı
+Price Action TR
+Forex Eğitim Kanalı Price Action Yatırım ve Ekonomi Kanalı, Forex ( Fx ya da Foreks ) Teknik Analiz , mum çubuklar ya da price action ( fiyat hareketi ) eğitim konusunda arayışta olanların kanalıdır....
+- https://www.youtube.com/channel/UCw2nK53Xn5FFh_NWXRmkfZw
+
+### 21
+@lifelock2
+Çeşitli konularda ki bilgilselleri bu twit altında...
+https://twitter.com/lifelock2/status/1373588369150709763
+
+### 22
+@KardesBaris
+en önemsediğim konu
+DAVRANIŞSAL FİNANS : https://medium.com/@KardesBaris/davran%C4%B1%C5%9Fsal-finans-%C3%BCzerine-7728d006d26a
 
 
 
