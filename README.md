@@ -13,6 +13,7 @@
 
 ## Uncategorized
 - https://dappradar.com/
+- https://www.cryptomiso.com/
 
 ## ICO
 - https://icodrops.com/
