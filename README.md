@@ -14,6 +14,7 @@
 ## Uncategorized
 - https://dappradar.com/
 - https://www.cryptomiso.com/
+- https://gist.github.com/nephius/a4b87d619db2241059ecb3ef33ae46c7 : import coins from binance to tradingview
 
 ## ICO
 - https://icodrops.com/
