@@ -1,5 +1,10 @@
 # Crypto
 
+## Articles
+- https://medium.com/@BTC3P0/what-is-market-structure-1152dd9470e
+- https://medium.com/@cryptocreddy/technical-analysis-series-directional-bias-e5516b08f7d1
+- 
+
 ## Price Action Crypto Screener
 - https://tools.tradingroom.io/#/
 
