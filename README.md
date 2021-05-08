@@ -1,9 +1,13 @@
 # Crypto
 
-## Articles
+## Price Action Articles
 - https://medium.com/@BTC3P0/what-is-market-structure-1152dd9470e
 - https://medium.com/@cryptocreddy/technical-analysis-series-directional-bias-e5516b08f7d1
-- 
+
+## Price Action Videos/Playlists
+- https://www.youtube.com/watch?v=q7BVTJol0IA&list=PLvkpxFSTppmnQ7A5DP386zEKU0Tv_fatm
+- https://www.youtube.com/watch?v=NDkE6RHke9U
+
 
 ## Price Action Crypto Screener
 - https://tools.tradingroom.io/#/
