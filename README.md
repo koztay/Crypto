@@ -16,6 +16,9 @@
 - https://dailyhodl.com
 - https://coinmarketcal.com
 
+## Liquidation Stats
+- https://www.bybt.com/LiquidationData
+
 ## Market Overwiev
 - https://coinmarketcap.com/
 - https://www.coingecko.com/
